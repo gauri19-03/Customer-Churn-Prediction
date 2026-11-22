@@ -199,5 +199,5 @@ It demonstrates how customer data can be transformed into predictive insights th
 
 ---
 
-**Author:** Your Name  
+ 
 **Skills Demonstrated:** Data Analytics | Python | SQL | Machine Learning | Power BI
